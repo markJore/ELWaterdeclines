@@ -1,0 +1,23 @@
+{
+  "name": "ELWaterdeclines",
+  "version": "0.1.1",
+  "summary": "A Waterdeclines animation",
+  "description": "Waterdeclines 是一个水平面下降的动画库",
+  "homepage": "https://github.com/markJore/ELWaterdeclines",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "markJore": "15754636787@163.com"
+  },
+  "source": {
+    "git": "https://github.com/markJore/ELWaterdeclines.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ELWaterdeclines/Classes/**/*",
+  "frameworks": "UIKit"
+}
