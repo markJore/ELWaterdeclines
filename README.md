@@ -27,3 +27,5 @@ markJore, 15754636787@163.com
 ## License
 
 ELWaterdeclines is available under the MIT license. See the LICENSE file for more info.
+## Description
+一个简单的水平面下降的动画,   Swift版本仅有几十行代码, 性能已优化
